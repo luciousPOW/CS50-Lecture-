@@ -8,7 +8,7 @@ for i in range(3):
 
 
 # Index       0       1      2 
-students = ['Elon','Bill','Louwis']
+students = ['Elon','Bill','Gusion']
 
 for i in range (len(students)):
     print(i + 1,":", students[i])
